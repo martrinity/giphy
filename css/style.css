@@ -1,1 +1,32 @@
-style.css
+body{
+	background-color: #c0c5ce;
+}
+
+.container{
+	width: 65%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #65737e;
+	padding: 4%;
+}
+
+.container img{
+	max-width: 250px;
+	padding: 4px;
+}
+
+#elementos{
+	padding: 2%;
+}
+
+#elementos.elemento a{
+	font-family: 'Raleway', sans-serif;
+	display: inline-block;
+	padding: 20px;
+	position: absolute;
+	top: 30%;
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+}
+
